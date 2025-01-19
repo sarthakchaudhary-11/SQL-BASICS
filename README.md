@@ -1,3 +1,5 @@
-SQL README Guide
+Interactive SQL Guide
 
-This guide will walk you through essential SQL commands and their usage, focusing on creating and managing database tables, applying constraints, filtering data, and working with results effectively.
+This interactive README introduces key SQL concepts and commands. Use this guide to practice SQL operations step-by-step with examples.
+
+
