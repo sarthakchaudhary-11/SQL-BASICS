@@ -11,7 +11,7 @@ This guide covers fundamental SQL operations including creating tables, modifyin
 - [Using Functions](#using-functions)
 - [Limit and Offset](#limit-and-offset)
 - [Additional Resources](#additional-resources)
-- [License](#license)
+
 
 ## Creating a Table
 Use the `CREATE TABLE` statement to define a new table:
